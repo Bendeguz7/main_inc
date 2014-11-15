@@ -6,6 +6,7 @@ class main{
         
         
         print "ez itt most a teszt";
+        print "KisFiam pihenj egy kiocsit, falatozz egy kis szalonnát és sétálj egyet! :)"
     }
     
     
